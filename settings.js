@@ -30,7 +30,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = "M.A.C MD 2.0"
-global.ownernumber = '+256777994271'
+global.ownernumber = '+256705036288'
 global.ownername = 'M.A.C  | O.F.F.I.C.I.A.L'
 global.ownerNumber = ["+256705036288@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
